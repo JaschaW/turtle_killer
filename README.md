@@ -1,4 +1,4 @@
-# turtle_killer
+# Turtle Killer
 
 This is a helper script to try and delete every possible related items to the infamous Turtle Plugin.
 
