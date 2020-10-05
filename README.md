@@ -17,7 +17,7 @@ To run it, simple call:
 kill_the_turtle()
 ```
 
-Optionially, you can call individual functions:
+Optionially, you can call individual functions to use in your own way:
 
 ## Example 1:
 If you only wanted to delete the turtle shelf
