@@ -8,3 +8,10 @@ To run it, simple call:
 ```python
 kill_the_turtle()
 ```
+
+Optionially, you can call individual functions:
+
+Example, if you only wanted to delete the turtle shelf:
+```python
+delete_turtle_maya_shelve()
+```
